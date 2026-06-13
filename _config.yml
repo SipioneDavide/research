@@ -23,7 +23,7 @@ repository               : "sipionedavide.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Sipione.png"
+  avatar           : "Sipione.jpg"
   name             : "Davide Sipione"
   pronouns         : # example: "she/her"  
   bio              : "Controlling Traffic"
