@@ -5,7 +5,7 @@ collection: publications
 category: pre-prints
 excerpt:
 permalink: /publication/NoiseRobustTollsInAtomicCongestionGames
-date: 2026-06-14
+date: 
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 citation: 
 ---
