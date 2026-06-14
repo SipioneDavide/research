@@ -2,7 +2,7 @@
 title: "On the Stability of Dynamical Multi-Commodity Flow Networks"
 collection: publications
 category: conferences
-excerpt: 
+excerpt: We study dynamical multi-commodity flows in transportation networks and establish conditions for the existence and stability of free-flow equilibria.
 permalink: /publication/OnStabilityOfMultiCommodityFlowNetworks
 date: 2025-12-09
 venue: '2025 IEEE 64th Conference on Decision and Control (CDC)'
