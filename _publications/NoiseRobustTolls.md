@@ -3,7 +3,7 @@ title: "Noise-Robust Tolls in Atomic Congestion
 Games"
 collection: publications
 category: pre-prints
-excerpt:
+excerpt: cioa
 permalink: /publication/NoiseRobustTollsInAtomicCongestionGames
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 citation: 
